@@ -1,3 +1,7 @@
 hi 
 buddy
+<<<<<<< HEAD
 this is local change
+=======
+this is remote change
+>>>>>>> c1802a6bd75ce88e1d4fa4befda8f2100a1830ea
