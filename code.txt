@@ -3,6 +3,3 @@ buddy
 thalaiva
 <<<<<<< HEAD
 ha
-=======
-yo
->>>>>>> fac65110c25747a03c633c49ebeede968bf959e6
