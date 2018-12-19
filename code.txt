@@ -4,3 +4,4 @@ thalaiva
 ha
 hi
 hello
+local
